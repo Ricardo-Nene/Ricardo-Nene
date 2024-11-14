@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Meu nome é Ricardo Vicente Nenê. ✌️<br> Resido em Guariba - São Paulo - Brasil 🇧🇷<br><br>- ⚗️ Atualmente trabalho como Analista de Laboratório 🧪 <br>- ⚙️Sou formado em Engenharia de Produção e Tecnologia em Biocombustíveis<br>- 📚 Atuamente estou estudando programação Front-End. <br>- Sou recém casado 👨‍❤️‍👨<br>- Tenho uma cachorrinha 🐶 <br>- Também toco violão 🎸, gosto de fotografar  📷 e estar com minha familia e amigos👨‍👩‍👦</p>
+<p align="left">Meu nome é Ricardo Vicente Nenê. ✌️<br> Resido em Guariba - São Paulo - Brasil 🇧🇷<br><br>- ⚗️ Atualmente trabalho como Analista de Laboratório 🧪 <br>- ⚙️Sou formado em Engenharia de Produção e Tecnologia em Biocombustíveis<br>- 📚 Atualmente estou estudando programação Front-End. <br>- Sou recém casado 👨‍❤️‍👨<br>- Tenho uma cachorrinha 🐶 <br>- Também toco violão 🎸, gosto de fotografar  📷 e estar com minha familia e amigos👨‍👩‍👦</p>
 
 ###
 
