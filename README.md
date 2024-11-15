@@ -49,13 +49,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/streaks?user=Ricardo-Nene&theme=dark&hide_border=true" height="220" alt="streak graph" />
-</div>
-
-###
