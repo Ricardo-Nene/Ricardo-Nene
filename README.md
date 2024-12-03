@@ -49,3 +49,9 @@
 </div>
 
 ###
+
+<h3 align="left"> ✏️ Projetos de aprendizado 🧠 [ EM DESENVOLVIMENTO ]</h3>
+
+[Desafio Site Completo DIO_Trilha_HTML](https://github.com/Ricardo-Nene/02_Desafio_DIO_Site_Completo_Clinica/tree/main)
+
+###
